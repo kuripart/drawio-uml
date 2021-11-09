@@ -85,4 +85,19 @@ Relationship between classes
 
 - Once the classes forming the aggregator class are dropped, the aggregator class is also dropped
 
+## Component Diagram
 
+Modelling aspects of OO systems that are used for visulaizing, defining, documenting component based systems.
+Essentially class diagrams that focus on system components, used to implement static view implementation of a system.
+
+- Each component is responsible for one clear goal.
+- Interacts with other essential elements in a need to know basis.
+
+2 Types of Interfaces:
+
+- Provided: System component interface.
+- Required: Needed by system components to carry out function.
+
+![component-diag-interface](https://user-images.githubusercontent.com/12943990/140873106-248c1923-e6a9-4d45-807f-2e76587bf47d.png)
+
+Similar Relationship symbols used as in Class Diagrams.
